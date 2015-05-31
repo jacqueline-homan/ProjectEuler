@@ -1,0 +1,5 @@
+/home/jacqueline/F-sharp/ProjectEuler/ProjectEuler/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/F-sharp/ProjectEuler/ProjectEuler/bin/Debug/ProjectEuler.exe.mdb
+/home/jacqueline/F-sharp/ProjectEuler/ProjectEuler/bin/Debug/ProjectEuler.exe
+/home/jacqueline/F-sharp/ProjectEuler/ProjectEuler/obj/x86/Debug/ProjectEuler.exe
+/home/jacqueline/F-sharp/ProjectEuler/ProjectEuler/obj/x86/Debug/ProjectEuler.exe.mdb
